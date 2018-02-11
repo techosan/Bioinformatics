@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/techosan/Bioinformatics.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/techosan/Bionformatics-spec.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/Volumes/Storage/Google Drive/Bioinformatics Spec" />
+    <option name="cloneParentDir" value="/Volumes/Storage/Google Drive/" />
   </component>
 </application>
